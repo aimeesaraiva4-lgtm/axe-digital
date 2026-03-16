@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Axé Digital",
+  "description": "Sistema completo de gestão de terreiro com cadastro de médiuns, presença por QRCode, financeiro, cantina e modo multi-terreiro SaaS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
